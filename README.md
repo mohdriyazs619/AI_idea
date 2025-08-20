@@ -1,5 +1,8 @@
 # AI Duty Roster Generator  
 
+## Summary
+Its purpose is to solve the problem of ports and logistics companies manually creating employee duty rosters, a process that takes hours.
+
 ## Problem  
 Ports and logistics companies spend hours manually creating employee duty rosters. This often causes overtime, fatigue, and extra costs.  
 
